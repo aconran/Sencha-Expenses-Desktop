@@ -59,6 +59,13 @@
                 "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/ExpenseColumnChart.js"
             ],
             "className": "ExpenseColumnChart"
+        },
+        "2a53b25c-6a3f-4475-86a3-3622a4fef82e": {
+            "paths": [
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ExpenseTracker.js",
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/ExpenseTracker.js"
+            ],
+            "className": "ExpenseTracker"
         }
     }
 }
