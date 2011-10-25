@@ -25,8 +25,9 @@
         },
         "codeClass": null,
         "userConfig": {
+            "autoCreateViewport": true,
             "name": "MyApp",
-            "launch": ""
+            "launch": "this.getStore('ExpenseStore').load();"
         }
     },
     "components": [],
@@ -72,6 +73,13 @@
                 "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/store/CategoryStore.js"
             ],
             "className": "CategoryStore"
+        },
+        "f4c6c788-7ab6-4a70-a5cc-c80e140e20d0": {
+            "paths": [
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/Viewport.js",
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/Viewport.js"
+            ],
+            "className": "Viewport"
         }
     }
 }
