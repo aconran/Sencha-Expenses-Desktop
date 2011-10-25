@@ -52,6 +52,13 @@
                 "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/ExpensePieChart.js"
             ],
             "className": "ExpensePieChart"
+        },
+        "7916ab40-6bfe-4a99-92a8-19a41b841251": {
+            "paths": [
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ExpenseColumnChart.js",
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/ExpenseColumnChart.js"
+            ],
+            "className": "ExpenseColumnChart"
         }
     }
 }
