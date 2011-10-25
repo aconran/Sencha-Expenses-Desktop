@@ -1,0 +1,61 @@
+[{
+    name: 'SuperShuttle',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Transportation',
+    amount: 16.70
+},{
+    name: 'SuperShuttle',
+    actualDate: '10-06-2011',
+    submitDate: '10-11-2011',
+    category: 'Transportation',
+    amount: 16.70
+},{
+    name: 'Farm',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Food',
+    amount: 28
+},{
+    name: 'Sushi',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Food',
+    amount: 28
+},{
+    name: 'Seafood',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Food',
+    amount: 28
+},{
+    name: 'Lowrys Carvery',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Food',
+    amount: 12
+},{
+    name: 'Lowrys Carvery',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Food',
+    amount: 14
+},{
+    name: 'Internet',
+    actualDate: '10-02-2011',
+    submitDate: '10-11-2011',
+    category: 'Internet',
+    amount: 15
+},{
+    name: 'Internet',
+    actualDate: '10-03-2011',
+    submitDate: '10-11-2011',
+    category: 'Internet',
+    amount: 15
+},{
+    name: 'Internet',
+    actualDate: '10-04-2011',
+    submitDate: '10-11-2011',
+    category: 'Internet',
+    amount: 15
+}]
