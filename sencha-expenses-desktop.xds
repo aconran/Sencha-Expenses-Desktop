@@ -1,0 +1,50 @@
+{
+    "name": "sencha-expenses-desktop",
+    "settings": {
+        "urlPrefix": "http://localhost/demos/Sencha-Expenses-Desktop/",
+        "directAPI": "",
+        "spacesToIndent": "4",
+        "codeGenFormat": "Class",
+        "exportPath": "",
+        "extPath": "http://extjs.cachefly.net/ext-4.0.2a/",
+        "lineEnding": "LF",
+        "instantiateStore": true,
+        "exportXDSFiles": true,
+        "genTimestamps": true,
+        "saveOnDeploy": false,
+        "appName": "MyApp",
+        "mapsAPI": "http://maps.google.com/maps/api/js?sensor=true",
+        "disablePromptOnDeploy": false
+    },
+    "xdsVersion": "2.0.0",
+    "application": {
+        "type": "application",
+        "reference": {
+            "name": "items",
+            "type": "array"
+        },
+        "codeClass": null,
+        "userConfig": {
+            "name": "MyApp",
+            "launch": ""
+        }
+    },
+    "components": [],
+    "stores": [],
+    "framework": "ext40",
+    "topInstanceFileMap": {
+        "bf0ccc13-d7fd-46ac-a780-ed115a9b1cff": {
+            "paths": [
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ExpenseGrid.js",
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/ExpenseGrid.js"
+            ],
+            "className": "ExpenseGrid"
+        },
+        "96a4f2d2-cf00-4ce5-952b-d5824ffb4e62": {
+            "paths": [
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/store/ExpenseStore.js"
+            ],
+            "className": "ExpenseStore"
+        }
+    }
+}
