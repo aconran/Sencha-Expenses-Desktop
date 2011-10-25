@@ -66,6 +66,12 @@
                 "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/view/ui/ExpenseTracker.js"
             ],
             "className": "ExpenseTracker"
+        },
+        "5c552c12-ffc6-4580-9b2c-979cd5eb23bb": {
+            "paths": [
+                "/Users/aconran/Sites/demos/Sencha-Expenses-Desktop/app/store/CategoryStore.js"
+            ],
+            "className": "CategoryStore"
         }
     }
 }
