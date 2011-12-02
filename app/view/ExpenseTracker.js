@@ -21,7 +21,7 @@ Ext.define('MyApp.view.ExpenseTracker', {
         var activeItem = 0,
         expenseStore = Ext.StoreMgr.lookup('ExpenseStore'),
         chartCt = this.down('#chartCt');
-                                                    
+        
         expenseStore.clearFilter();
         if (newValue) {
             activeItem = 1;
