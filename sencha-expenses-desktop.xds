@@ -80,7 +80,8 @@
         "f4c6c788-7ab6-4a70-a5cc-c80e140e20d0": {
             "paths": [
                 "app/view/Viewport.js",
-                "app/view/ui/Viewport.js"
+                "app/view/ui/Viewport.js",
+                "app/view/Viewport.js"
             ],
             "className": "Viewport"
         }
